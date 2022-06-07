@@ -2,6 +2,8 @@
 ## Aluno: Paulo André Ribeiro Said
 ## Turma: CC1M
 
+SITE HOSPEDADO EM: https://paulosaid.github.io/meusite2.1-master/index.html
+
 **HTML:** O uso do HTML foi utilizado para fazer a escrita do site, separação de divs e organização.
 
 **CSS:** O CSS foi muito utilizado aqui, principalmente para deixar o site totalmente responsivo e agradável visualmente.
